@@ -17,7 +17,7 @@ import java.security.spec.InvalidKeySpecException;
 import java.security.spec.PKCS8EncodedKeySpec;
 import java.security.spec.X509EncodedKeySpec;
 
-public class util {
+public class Nrypto {
 	/**
 	 * 사용할 암호화 알고리즘을 선언한다.
 	 */
